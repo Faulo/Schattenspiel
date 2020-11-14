@@ -1,0 +1,16 @@
+{
+"_title":"Move the boxes for sunlight!",
+"_suns":[
+{"radius":15,"angle":0,"speed":0.25}
+],
+"_tiles":[
+"                  ",
+"          BBB     ",
+"       AA12BB     ",
+"       AA12BB     ",
+"          BBB     ",
+"                  ",
+"                  ",
+"                  "
+]
+}

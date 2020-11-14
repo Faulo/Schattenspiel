@@ -1,0 +1,16 @@
+{
+"_title":"Move the boxes for shade!",
+"_suns":[
+{"radius":15,"angle":0,"speed":0.25}
+],
+"_tiles":[
+"                  ",
+"                  ",
+"                  ",
+"                  ",
+"       CCC        ",
+"       C1C        ",
+"       C2C        ",
+"                  "
+]
+}
